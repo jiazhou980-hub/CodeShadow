@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Storage
+storage/
+
+# macOS
+.DS_Store
+# Vite build
+frontend/dist/
+
+# TypeScript cache
+*.tsbuildinfo
